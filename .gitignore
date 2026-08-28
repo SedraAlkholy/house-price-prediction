@@ -1,0 +1,7 @@
+*.pkl 
+.venv/ 
+node_modules/ 
+.env 
+*.csv 
+__pycache__/ 
+.ipynb_checkpoints/ 
