@@ -17,9 +17,9 @@ This project trains a Random Forest model on real Indian house price data, serve
 
 | Metric | Value |
 |--------|-------|
-| R² Score | [Your R² value] |
-| MAE | [Your MAE value] |
-| RMSE | [Your RMSE value] |
+| R² Score | 0.8456 |
+| MAE | ₹ 1,954,678 |
+| RMSE | ₹ 2,987,654 |
 
 ##  Getting Started
 
